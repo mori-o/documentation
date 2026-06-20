@@ -19,3 +19,5 @@
 </ItemGroup>
 
 </Project>
+
+// Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 8.0.22
